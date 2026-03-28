@@ -1,0 +1,29 @@
+#hi
+{
+    font-size: 5rem;
+}
+
+
+#button
+{
+    font-size: 4rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding:10px 15px;
+
+}
+.enabled{
+    background-color: blue;
+    color: white;
+}
+.hover
+{
+    box-shadow: 0 0 10px rgb(61, 59, 59);
+    font-weight: bold;
+}
+.disable
+{
+    background-color:grey ;
+    color: rgb(180, 160, 160);
+}
